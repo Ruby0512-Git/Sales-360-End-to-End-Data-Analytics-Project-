@@ -50,22 +50,34 @@ Total Customers
 Total Return Quantity 
 
 Dashboard Analysis:
+
 The dashboard included analysis of :
 
 Monthly sales analysis 
-sales by category 
+
+sales by category
+
 sales by subcategory
+
 product performance
+
 return reasons
+
 payment status
+
 sales by region 
 
 KEY BUSINESS INSIGHTS:
 Top performing products
+
 Best forming category and subcategories 
+
 Monthly sales trend
+
 Return Reasons
+
 Payment Status Distribution 
+
 Areas of stronger and weaker sales performance .
 
 
